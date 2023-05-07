@@ -1,6 +1,8 @@
 # anipopintermed
 
 A new Flutter project.
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/94723743/236695010-9ed07765-bafd-405b-a0a0-60992bfdf84f.png">
+
 
 ## Getting Started
 
